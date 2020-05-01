@@ -1,5 +1,6 @@
-# 加了这句话表示实可执行文件，下面的执行会依次执行
 #!/usr/bin/env sh
+
+# 加了这句话表示实可执行文件，下面的执行会依次执行
 
 # 确保脚本抛出遇到的错误
 set -e
@@ -18,7 +19,7 @@ git init
 # 提交到暂存区
 git add -A
 # 提交本地(以后每次就是更新文档了)
-git commit -m 'update'
+git commit -m 'deploy'
 
 # 如果你想要部署到 https://USERNAME.github.io （需将username换成自己的用户名）
 # git push -f git@github.com:username/username.github.io.git master

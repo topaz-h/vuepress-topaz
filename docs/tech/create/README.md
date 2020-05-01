@@ -186,6 +186,10 @@ export default ({
 
 ## 四、部署上线(打包)
 
+> 或者 - deploy到github page
+
+> [知乎](https://zhuanlan.zhihu.com/p/98488418)、[脚本之家](https://www.jb51.net/article/156259.htm)
+
 ### 4.1 服务器: [Github Pages](https://pages.github.com/)、云服务器
 
 ### 4.2 github创建仓库
